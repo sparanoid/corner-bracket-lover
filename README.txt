@@ -4,8 +4,8 @@ Contributors: Sparanoid
 Donate link: http://sparanoid.com/donate/
 Tags: china, chinese, character, comment, comments, content, contents, excerpt, excerpts, feed, feeds, html, multisite, page, pages, plugin, plugins, post, posts, text, title, wpmu, writing
 Requires at least: 1.5
-Tested up to: 4.5
-Stable tag: 1.2.6
+Tested up to: 4.7
+Stable tag: 1.2.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,9 @@ Old-styled WordPress Mu:
 2. Option page
 
 == Changelog ==
+
+= 1.2.7 =
+* Compatibility check for 4.6 and 4.7, nothing new, just bump version to tell everyone this plugin still works.
 
 = 1.2.6 =
 * Compatibility check for 4.5, nothing new, just bump version to tell everyone this plugin still works.
@@ -90,6 +93,9 @@ Old-styled WordPress Mu:
 * First release
 
 == Upgrade Notice ==
+
+= 1.2.7 =
+* Compatibility check for 4.6 and 4.7, nothing new, just bump version to tell everyone this plugin still works.
 
 = 1.2.6 =
 * Compatibility check for 4.5, nothing new, just bump version to tell everyone this plugin still works.
