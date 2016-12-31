@@ -3,7 +3,7 @@
 Plugin Name: Corner Bracket Lover
 Plugin URI: http://sparanoid.com/work/corner-bracket-lover/
 Description: Corner Bracket Lover converts all curly quotation marks in your posts to traditional corner brackets.
-Version: 1.2.6
+Version: 1.2.7
 Author: Tunghsiao Liu
 Author URI: http://sparanoid.com/
 Author Email: t@sparanoid.com
@@ -13,7 +13,7 @@ Network: false
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-  Copyright 2016 Tunghsiao Liu (t@sparanoid.com)
+  Copyright 2017 Tunghsiao Liu (t@sparanoid.com)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as
