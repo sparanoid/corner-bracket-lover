@@ -1,10 +1,10 @@
 === Corner Bracket Lover ===
 
 Contributors: Sparanoid
-Donate link: http://sparanoid.com/donate/
+Donate link: https://sparanoid.com/donate/
 Tags: china, chinese, character, comment, comments, content, contents, excerpt, excerpts, feed, feeds, html, multisite, page, pages, plugin, plugins, post, posts, text, title, wpmu, writing
 Requires at least: 1.5
-Tested up to: 5.0
+Tested up to: 5.8
 Stable tag: 1.2.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,7 +15,7 @@ Corner Bracket Lover converts all curly quotation marks (“” and ‘’) in y
 
 Corner Bracket Lover converts all curly quotation marks (“” and ‘’) in your posts to traditional corner brackets (「」 and 『』). A must-have plugin if you're a Chinese writer or just a corner brackets lover. This plugin also works fine with multisite enabled WordPress (aka. WordPress Mu).
 
-More information please visit my [site](http://sparanoid.com/work/corner-bracket-lover/).
+More information please visit my [site](https://sparanoid.com/work/corner-bracket-lover/).
 
 == Installation ==
 
@@ -84,7 +84,7 @@ Old-styled WordPress Mu:
 * Major update. Add options page, now you can choose which kind of text the plugin can replace.
 
 = 1.0.3 =
-* Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/corner-bracket-lover/ props @lianghai
+* Update plugin description and page design on sparanoid.com, check it out: https://sparanoid.com/work/corner-bracket-lover/ props @lianghai
 
 = 1.0.2 =
 * Update description, props @lianghai
@@ -136,7 +136,7 @@ Old-styled WordPress Mu:
 * Major update. Add options page, now you can choose which kind of text the plugin can replace.
 
 = 1.0.3 =
-* Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/corner-bracket-lover/ props @lianghai
+* Update plugin description and page design on sparanoid.com, check it out: https://sparanoid.com/work/corner-bracket-lover/ props @lianghai
 
 = 1.0.2 =
 * Update description, props @lianghai

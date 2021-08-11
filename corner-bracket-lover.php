@@ -5,7 +5,7 @@ Plugin URI: https://sparanoid.com/work/corner-bracket-lover/
 Description: Corner Bracket Lover converts all curly quotation marks in your posts to traditional corner brackets.
 Version: 1.2.8
 Author: Tunghsiao Liu
-Author URI: http://sparanoid.com/
+Author URI: https://sparanoid.com/
 Author Email: t@sparanoid.com
 Text Domain: corner-bracket-lover
 Domain Path: /lang/
@@ -180,8 +180,8 @@ function cbl_render_form() {
 			<p class="submit">
         <input type="submit" class="button-primary" value="<?php _e('Save Changes') ?>" />
         <input class="button" type="button" value="<?php _e( 'Follow on Twitter', 'corner-bracket-lover' ); ?>" onClick="window.open('http://twitter.com/tunghsiao')">
-        <input class="button" type="button" value="<?php _e( 'Visit My Website', 'corner-bracket-lover' ); ?>" onClick="window.open('http://sparanoid.com/')">
-  			<p><?php _e( 'Love this plugin? Please consider', 'corner-bracket-lover' ); ?> <a href="http://sparanoid.com/donate/"><?php _e( 'buying me a cup of coffee', 'corner-bracket-lover' ); ?></a><?php _e( '!', 'corner-bracket-lover' ); ?></p>
+        <input class="button" type="button" value="<?php _e( 'Visit My Website', 'corner-bracket-lover' ); ?>" onClick="window.open('https://sparanoid.com/')">
+  			<p><?php _e( 'Love this plugin? Please consider', 'corner-bracket-lover' ); ?> <a href="https://sparanoid.com/donate/"><?php _e( 'buying me a cup of coffee', 'corner-bracket-lover' ); ?></a><?php _e( '!', 'corner-bracket-lover' ); ?></p>
 			</p>
 		</form>
 	</div>
