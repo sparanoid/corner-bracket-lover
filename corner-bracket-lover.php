@@ -3,7 +3,7 @@
 Plugin Name: Corner Bracket Lover
 Plugin URI: https://sparanoid.com/work/corner-bracket-lover/
 Description: Corner Bracket Lover converts all curly quotation marks in your posts to traditional corner brackets.
-Version: 1.2.8
+Version: 1.2.9
 Author: Tunghsiao Liu
 Author URI: https://sparanoid.com/
 Author Email: t@sparanoid.com
